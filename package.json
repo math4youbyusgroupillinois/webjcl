@@ -29,7 +29,7 @@
     "jsftp": "^1.2.1",
     "node-cache": "^0.4.1",
     "body": "^4.4.2",
-    "winston": "^0.7.2"
+    "winston": "^0.8.0"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
